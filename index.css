@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.left-column {
+	width: 45%;
+	text-align: flex;
+}
