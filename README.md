@@ -6,6 +6,6 @@ Font and color live in style.css to ensure common styling.
 
 
 ## Maintainers
-Owen Pierce (opierce@gmail.com)
+Owen Pierce (opierce@gmail.com)  
 Praful Mathur (praful.mathur@gmail.com)
 
