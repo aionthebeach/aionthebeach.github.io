@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to AI on the Beach
+#### Studying ocean health by understanding the change of behavior in marine species due to human activity through collaboration with non-profits, their data sets, and the strength of our team members.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## What we're about
+Our mission is to emotionally tie climate change through animal behavior in the ocean to help people understand how their behavior directly contributes to the current marine ecological crises. 
 
 
-### Definition lists can be used with HTML syntax.
+## How do we expect to meet our mission?
+We are looking to better understand the major supply chains and help local groups shift their lanes away from areas where marine mammals are most vulnerable at being hit (see: Sri Lanka’s shipping lane changes due to Blue Whale feeding). As the shipping industry accounts for 3% of global greenhouse gas emissions, they are seeing pressure from startups with more energy efficient and time efficient vehicles. 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+The goal is to create datasets paired with emotionally impactful visualizations that help companies understand their direct impact. First we create visuals aggregating the impact of an industry. Then we market the impact to the media to engage the public. Later, we educate the most influential industry leaders and we expect corporate violators to react quickly. This will allow those currently violating environmental standards to avoid a PR blowback as well as to create positive marketing for their brands. By targeting the most influential companies, we expect the rest of the industry to follow in suit. 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Our research thus far
+[You can access / stay up to date on our code and analysis here](https://github.com/aionthebeach/notebook)
 
-```
-The final element.
-```
+Currently, our work is around overfishing and shark populations. We're looking to cross-analyze the effects of the policy changes on fishing compared to shark population resurgence. We do this by comparing shark data and intersecting fishing vessal data timeseries data.
+
+##### Heat map of fishing zones by hours. Special thanks to Himanshu.
+![Branching](./Images/FishingVessalActivity.png)
+
+##### Fishing vessal timelapse
+![Branching](./Images/GFW_timelapse.gif)
+
+
+## Our team
+We are always looking for new team members to join and help out!
+[Meet the board!](./board-team.html)
+
+## More information
+Discord: https://discord.gg/YMwgVPC
+
+General - info@aiotb.com
+
+Datascientist & Founder, Praful - praful@aiotb.com
+
+President, Owen Pierce - owen@aiotb.com
+
+Vice President, Eric Simmons  - eric@aiotb.com
