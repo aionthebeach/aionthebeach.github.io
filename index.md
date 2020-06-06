@@ -33,10 +33,10 @@ We are always looking for new team members to join and help out!
 ## More information
 Discord: https://discord.gg/YMwgVPC
 
-General - info@aiotb.com
+General - info@aionthebeach.com
 
-Datascientist & Founder, Praful - praful@aiotb.com
+Datascientist & Founder, Praful - praful@aionthebeach.com
 
-President, Owen Pierce - owen@aiotb.com
+President, Owen Pierce - owen@aionthebeach.com
 
-Vice President, Eric Simmons  - eric@aiotb.com
+Vice President, Eric Simmons  - eric@aionthebeach.com
