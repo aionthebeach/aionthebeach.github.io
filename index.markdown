@@ -1,12 +1,14 @@
 ---
-layout: default
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+layout: home
+---
 # Welcome to AI on the Beach
 #### Studying ocean health by understanding the change of behavior in marine species due to human activity through collaboration with non-profits, their data sets, and the strength of our team members.
 
 ## What we're about
-Our mission is to emotionally tie climate change through animal behavior in the ocean to help people understand how their behavior directly contributes to the current marine ecological crises. 
+Our mission is to emotionally tie climate change through animal behavior in the ocean to help people understand how their behavior directly contributes to the current marine-ecological crises. 
 
 
 ## How do we expect to meet our mission?
@@ -17,7 +19,7 @@ The goal is to create datasets paired with emotionally impactful visualizations 
 ## Our research thus far
 [You can access / stay up to date on our code and analysis here](https://github.com/aionthebeach/notebook)
 
-Currently, our work is around overfishing and shark populations. We're looking to cross-analyze the effects of the policy changes on fishing compared to shark population resurgence. We do this by comparing shark data and intersecting fishing vessal data timeseries data.
+Currently, our work is around overfishing and shark populations. We're looking to cross-analyze the effects of policy changes on fishing compared to shark population resurgence. We do this by comparing shark data and intersecting fishing vessal timeseries data.
 
 ##### Heat map of fishing zones by hours. Special thanks to Himanshu.
 ![Branching](./Images/FishingVessalActivity.png)
@@ -35,8 +37,8 @@ Discord: https://discord.gg/YMwgVPC
 
 General - info@aionthebeach.com
 
-Datascientist & Founder, Praful - praful@aionthebeach.com
+Chief Datascientist & Founder, Praful - praful@aionthebeach.com
 
-President, Owen Pierce - owen@aionthebeach.com
+Community & Communications Director & Engineer, Owen Pierce - owen@aionthebeach.com
 
-Vice President, Eric Simmons  - eric@aionthebeach.com
+Marketing / Operations Director & Engineer, Eric Simmons  - eric@aionthebeach.com
