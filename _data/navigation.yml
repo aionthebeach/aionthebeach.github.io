@@ -1,8 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about
+  # - title: "About"
+  #   url: /about
   - title: "Board"
     url: /board
-  
+  - title: "Github"
+    url: https://github.com/aionthebeach/notebook
+  - title: "Discord"
+    url: https://discord.gg/YMwgVPC
+  - title: "Join Mailing List"
+    url: https://forms.gle/gnG2kK2Nxa96syRT6
