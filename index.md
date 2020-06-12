@@ -28,15 +28,9 @@ Currently, our work is around overfishing and shark populations. We're looking t
 
 ## Our team
 We are always looking for new team members to join and help out!
-[Meet the board!](./board-team.html)
+[Meet the board!](./board)
 
 ## More information
 Discord: https://discord.gg/YMwgVPC
 
 General - info@aionthebeach.com
-
-Datascientist & Founder, Praful - praful@aionthebeach.com
-
-President, Owen Pierce - owen@aionthebeach.com
-
-Vice President, Eric Simmons  - eric@aionthebeach.com

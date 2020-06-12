@@ -2,7 +2,7 @@
 The public website for AI on the Beach.
 
 ## Quickstart
-Font and color live in style.css to ensure common styling.
+We're using Jekyll with the Minimal style for styling with some modifications.
 
 
 ## Maintainers
