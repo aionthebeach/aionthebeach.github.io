@@ -31,6 +31,6 @@ We are always looking for new team members to join and help out!
 [Meet the board!](./board)
 
 ## More information
-Discord: https://discord.gg/YMwgVPC
+Discord: [https://discord.gg/YMwgVPC](https://discord.gg/YMwgVPC)
 
-General - info@aionthebeach.com
+General - [info@aionthebeach.com](mailto:info@aionthebeach.com)
